@@ -1,4 +1,4 @@
-# Random-Gif-Generator
+# Gif-Surprise
   This is a simple web application that allows users to generate and display a random GIF from GIPHY's API. 
 
 # Features
