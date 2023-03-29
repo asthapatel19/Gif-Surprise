@@ -3,6 +3,6 @@
 
 # Features
 
-    Displays a random GIF every time the user clicks the "Generate" button
+    Displays a random GIF every time a user clicks the "Generate" button
     Allows users to search for specific GIFs using keywords
     Uses GIPHY's API to fetch and display the GIFs
